@@ -1,4 +1,13 @@
-Here is our github repository. We mainly used MySQL for coding and Tableau for visualization. 
+Here is our GitHub repository. We mainly used MySQL for coding and Tableau for visualization. 
+
+Stakeholders:
+Our stakeholders are small, women-owned, and minority-owned businesses.
+
+Problem:
+Helping these businesses secure EPA Contracts.
+We will solve this by giving them valuable recommendations and insights on current businesses that have EPA Contract(s). This will allow them to make changes that will increase their chances of securing an EPA contract.
+
+
 
 Our Process:
 1. Created a SQL Database on lmu.build
